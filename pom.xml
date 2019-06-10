@@ -11,6 +11,7 @@
     <modules>
         <module>data-base-helper</module>
         <module>log-helper</module>
+        <module>http-server-helper</module>
     </modules>
 
     <properties>
