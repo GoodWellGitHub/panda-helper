@@ -13,6 +13,7 @@
         <module>log-helper</module>
         <module>http-server-helper</module>
         <module>excel-helper</module>
+        <module>hash-helper</module>
     </modules>
 
     <properties>
